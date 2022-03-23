@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">test</string>
+    <string name= "owner">David Cook</string>
+    <string name="hello">Good Morning!</string>
+</resources>
